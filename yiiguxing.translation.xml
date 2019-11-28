@@ -5,6 +5,13 @@
     </histories>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190711000316906" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
