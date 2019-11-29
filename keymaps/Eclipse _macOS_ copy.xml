@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
