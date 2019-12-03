@@ -1,0 +1,7 @@
+<keymap version="1" name="Eclipse (macOS) copy 1" parent="Eclipse (Mac OS X)">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Print" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+</keymap>
