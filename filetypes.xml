@@ -5,7 +5,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="frontend_Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="application" type="YAML" />
