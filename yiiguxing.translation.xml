@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="定义" />
+      <item value="声明" />
       <item value="Maximum amount of time the server blocks before answering the fetch request if there isn't    * sufficient data to immediately satisfy the requirement given by &quot;fetch-min-size&quot;." />
       <item value="Minimum amount of data the server should return for a fetch request." />
       <item value="Unique string that identifies the consumer group to which this consumer belongs." />
@@ -23,7 +25,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
