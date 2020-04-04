@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列表" />
+      <item value="实例" />
       <item value="你好" />
     </histories>
     <option name="languageScores">
@@ -14,7 +16,6 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20190711000316906" />
-        <option name="appKeyConfigured" value="true" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
