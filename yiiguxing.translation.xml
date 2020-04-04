@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maximum amount of time the server blocks before answering the fetch request if there isn't    * sufficient data to immediately satisfy the requirement given by &quot;fetch-min-size&quot;." />
+      <item value="Minimum amount of data the server should return for a fetch request." />
+      <item value="Unique string that identifies the consumer group to which this consumer belongs." />
+      <item value="Expected time between heartbeats to the consumer coordinator." />
+      <item value="Deserializer class for keys." />
+      <item value="Additional consumer-specific properties used to configure the client.Additional consumer-specific properties used to configure the client." />
+      <item value="Maximum number of records returned in a single call to poll()." />
       <item value="What to do when there is no initial offset in Kafka or if the current offset no longer exist on the server." />
       <item value="Frequency with which the consumer offsets are auto-committed to Kafka" />
       <item value="Whether the consumer's offset is periodically committed in the background." />
