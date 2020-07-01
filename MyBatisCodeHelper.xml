@@ -5,6 +5,7 @@
         <option name="userMacSet">
           <set>
             <option value="00-1C-42-00-00-09" />
+            <option value="12" />
           </set>
         </option>
         <option name="valid" value="true" />
