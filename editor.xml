@@ -4,6 +4,10 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="MonacoB" />
+    <option name="FONT_FAMILY" value="Monaco" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
