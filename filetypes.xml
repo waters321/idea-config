@@ -6,11 +6,11 @@
       <mapping pattern="*.yaml.01" type="PLAIN_TEXT" />
       <mapping pattern="frontend_Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="BiIndicatorScenesMapper" type="PLAIN_TEXT" />
-      <mapping pattern="20200722_V1__init" type="PLAIN_TEXT" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern=".!24885!values.yaml.01" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="BiIndMapper" type="PLAIN_TEXT" />
+      <mapping pattern="20200722_V1__init" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
