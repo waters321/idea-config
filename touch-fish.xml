@@ -1,0 +1,14 @@
+<application>
+  <component name="PersistentState">
+    <option name="key">
+      <array>
+        <option value="Alt + ←" />
+        <option value="Alt + →" />
+        <option value="Ctrl + 1" />
+        <option value="Ctrl + 2" />
+        <option value="Shift + ↑" />
+        <option value="Shift + ↓" />
+      </array>
+    </option>
+  </component>
+</application>
